@@ -92,13 +92,34 @@ Email Notification
 ## 📁 Project Structure
 
 ```text
-Azure-Cost-Visibility-Dashboard/
-
+Azure-Cost-Visibility-Dashboard
+│
 ├── architecture/
+│   ├── architecture.png
+│   └── architecture.drawio
+│
 ├── docs/
+│   ├── deployment-guide.md
+│   ├── user-guide.md
+│   ├── troubleshooting.md
+│   ├── interview-questions.md
+│   └── cost-estimation.md
+│
 ├── screenshots/
-├── images/
+│   ├── 01-resource-group.png
+│   ├── 02-cost-analysis.png
+│   ├── 03-budget-created.png
+│   ├── 04-logic-app-designer.png
+│   ├── 05-action-group.png
+│   ├── 06-outlook-workflow.png
+│   └── 07-budget-summary.png
+│
 ├── README.md
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── SECURITY.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
