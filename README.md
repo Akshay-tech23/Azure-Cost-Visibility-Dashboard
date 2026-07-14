@@ -1,5 +1,5 @@
 # 💰 Azure Cost Visibility Dashboard
-
+![Azure Cost Visibility Dashboard](images/banner.png)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![Azure Monitor](https://img.shields.io/badge/Azure-Monitor-blue)
 ![Logic Apps](https://img.shields.io/badge/Azure-Logic%20Apps-purple)
